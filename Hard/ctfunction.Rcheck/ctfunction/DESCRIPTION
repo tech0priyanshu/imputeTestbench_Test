@@ -1,0 +1,24 @@
+Package: ctfunction
+Type: Package
+Title: Various CT Calculation Functions
+Version: 0.1.0
+Authors@R: c(
+    person(
+      "Priyanshu", "Yadav",
+      email = "priyanshuyadv101106@gmail.com",
+      role = c("aut", "cre")
+    )
+  ) 
+Description: Functions for calculating different types of means including arithmetic, 
+    geometric, and harmonic means, as well as their weighted variants. Also includes
+    functions for calculating median and mode.
+License: MIT++ file LICENSE
+Encoding: UTF-8
+RoxygenNote: 7.3.2
+Suggests: testthat (>= 3.0.0)
+Config/testthat/edition: 3
+NeedsCompilation: no
+Packaged: 2025-03-13 10:39:45 UTC; priya
+Author: Priyanshu Yadav [aut, cre]
+Maintainer: Priyanshu Yadav <priyanshuyadv101106@gmail.com>
+Built: R 4.4.2; ; 2025-03-13 10:39:49 UTC; windows

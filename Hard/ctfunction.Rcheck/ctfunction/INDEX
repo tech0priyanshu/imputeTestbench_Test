@@ -1,0 +1,7 @@
+am                      Calculate the arithmetic mean (AM) of a numeric
+                        vector
+gm                      Calculate the geometric mean (GM) of a numeric
+                        vector
+hm                      Harmonic Mean Function
+median_value            Median Function
+mode_value              Calculate the mode of a vector
