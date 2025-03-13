@@ -19,4 +19,4 @@ This example demonstrates how to use the impute_errors() function from the imput
 
 The results object will contain error metrics (e.g., RMSE) for the "na.locf" method at different percentages of missing data (10%, 20%, 30%). This helps assess how well the Last Observation Carried Forward method performs under various missing data scenarios.
 
-![Output](image.png)
+![Output](<Screenshot 2025-02-22 223618.png>)
